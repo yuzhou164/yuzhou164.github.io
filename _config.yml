@@ -14,8 +14,8 @@ url: "https://yuzhou164.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: #gaohaoyang126
-facebook_username: #gaohaoyang.water
+twitter_username: None
+facebook_username: None
 github_username:  yuzhou164
 email: 648334278@QQ.com
 weibo_username: None
@@ -28,8 +28,8 @@ description_footer: 来自Jason的个人专栏！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+duoshuo_shortname: #wxyblog
+disqus_shortname: #wangxinyu
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
